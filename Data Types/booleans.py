@@ -8,4 +8,4 @@ print(bool(20))
 # Functions can return a boolean value
 def myFunction():
     return True
-print(myFunction())
+print(myFunction(tele))
